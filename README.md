@@ -17,38 +17,6 @@
 
 ---
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=github" />
-
-<br/>
-
-![GitHub last commit](https://img.shields.io/github/last-commit/Tristan-DW/Valentines-Card?style=for-the-badge&color=6e40c9)
-![GitHub stars](https://img.shields.io/github/stars/Tristan-DW/Valentines-Card?style=for-the-badge&color=f0883e)
-![GitHub issues](https://img.shields.io/github/issues/Tristan-DW/Valentines-Card?style=for-the-badge&color=da3633)
-![License](https://img.shields.io/badge/license-MIT-238636?style=for-the-badge)
-
-
-> **Valentines Card**
-
-</div>
-
----
-
-<div align="center">
-
-![GitHub last commit](https://img.shields.io/github/last-commit/Tristan-DW/Valentines-Card?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/Tristan-DW/Valentines-Card?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/Tristan-DW/Valentines-Card?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
-
-
-> **Valentines Card**
-
-</div>
-
----
-
 ##  Overview
 
 **Valentines-Card** is valentines card. Built to be fast, reliable, and easy to use.
