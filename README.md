@@ -1,9 +1,13 @@
 <div align="center">
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Tristan-DW/Valentines-Card?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/Tristan-DW/Valentines-Card?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/Tristan-DW/Valentines-Card?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=github" />
+
+<br/>
+
+![GitHub last commit](https://img.shields.io/github/last-commit/Tristan-DW/Valentines-Card?style=for-the-badge&color=6e40c9)
+![GitHub stars](https://img.shields.io/github/stars/Tristan-DW/Valentines-Card?style=for-the-badge&color=f0883e)
+![GitHub issues](https://img.shields.io/github/issues/Tristan-DW/Valentines-Card?style=for-the-badge&color=da3633)
+![License](https://img.shields.io/badge/license-MIT-238636?style=for-the-badge)
 
 # Valentines-Card
 
@@ -13,13 +17,27 @@
 
 ---
 
-## 📖 Overview
+<div align="center">
+
+![GitHub last commit](https://img.shields.io/github/last-commit/Tristan-DW/Valentines-Card?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Tristan-DW/Valentines-Card?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/Tristan-DW/Valentines-Card?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
+
+
+> **Valentines Card**
+
+</div>
+
+---
+
+##  Overview
 
 **Valentines-Card** is valentines card. Built to be fast, reliable, and easy to use.
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Easy Setup** - Get up and running in minutes
 - **Modern Design** - Clean and intuitive interface
@@ -28,7 +46,7 @@
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```bash
 git clone https://github.com/Tristan-DW/Valentines-Card.git
@@ -37,19 +55,19 @@ cd Valentines-Card
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Valentines-Card/
-├── src/          # Source files
-├── docs/         # Documentation
-├── tests/        # Test suite
-└── README.md     # You are here
+ src/          # Source files
+ docs/         # Documentation
+ tests/        # Test suite
+ README.md     # You are here
 ```
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Feel free to:
 
@@ -61,7 +79,7 @@ Contributions are welcome! Feel free to:
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
@@ -70,5 +88,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 <div align="center">
 
 **Made with love by [Tristan Wentzel](https://github.com/Tristan-DW)**
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Built by <a href="https://github.com/Tristan-DW">Tristan Wentzel</a></sub>
 
 </div>
